@@ -1,4 +1,4 @@
-# COMP4300
+# COMP4300 - [Computer Networks](https://umanitoba.ca/science/sites/science/files/2023-08/COMP-4300.pdf)
 Tracking the learning outcomes for the hands-on experience offered by this class.
 Languages/Applications used:
 - C++
